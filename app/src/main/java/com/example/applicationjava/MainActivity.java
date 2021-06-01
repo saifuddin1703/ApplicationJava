@@ -20,10 +20,8 @@ import com.example.applicationjava.models.crewModel;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.reactivestreams.Subscription;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.rxjava3.annotations.NonNull;
 import io.reactivex.rxjava3.core.CompletableObserver;
