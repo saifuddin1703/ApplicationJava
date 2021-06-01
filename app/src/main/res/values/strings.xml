@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApplicationJava</string>
+    <string name="delete">delete</string>
+    <string name="refresh">refresh</string>
+    <string name="name">Name</string>
+    <string name="agency">Agency</string>
+    <string name="status">Status</string>
+    <string name="wiki">Wikipedia</string>
+</resources>
